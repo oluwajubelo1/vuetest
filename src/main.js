@@ -3,10 +3,6 @@ import App from './App.vue'
 import router from '@/router/index'
 import store from '@/store/index'
 import axios from 'axios'
-import VeeValidate from 'vee-validate';
-
-Vue.use(VeeValidate);
-
 
 
 Vue.config.productionTip = false
